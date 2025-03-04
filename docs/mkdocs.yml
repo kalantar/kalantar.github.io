@@ -1,0 +1,5 @@
+site_name: Integration Docs
+
+plugins:
+- mike:
+    canonical_version: latest
